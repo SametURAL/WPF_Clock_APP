@@ -1,0 +1,27 @@
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\bin\Debug\WpfSaat.exe.config
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\bin\Debug\WpfSaat.exe
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\bin\Debug\WpfSaat.pdb
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat.csprojResolveAssemblyReference.cache
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\MainWindow.baml
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\MainWindow.g.cs
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\App.g.cs
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat_MarkupCompile.cache
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat.g.resources
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat.Properties.Resources.resources
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat.csproj.GenerateResource.Cache
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat.exe
+c:\users\bb\documents\visual studio 2013\Projects\WpfSaat\WpfSaat\obj\Debug\WpfSaat.pdb
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\bin\Debug\WpfSaat.exe.config
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\bin\Debug\WpfSaat.exe
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\bin\Debug\WpfSaat.pdb
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.csproj.AssemblyReference.cache
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\MainWindow.baml
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\MainWindow.g.cs
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\App.g.cs
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat_MarkupCompile.cache
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.g.resources
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.Properties.Resources.resources
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.csproj.GenerateResource.cache
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.csproj.CoreCompileInputs.cache
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.exe
+C:\Users\alize\OneDrive\Masaüstü\WpfSaat\WpfSaat\obj\Debug\WpfSaat.pdb
